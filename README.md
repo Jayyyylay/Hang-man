@@ -1,1 +1,1 @@
-# Hang-man , enjoy the game and thnak you
+# Hang-man , enjoy the game and thank you
